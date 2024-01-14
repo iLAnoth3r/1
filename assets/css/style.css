@@ -3,6 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  text-shadow: rgb(255, 0, 0) 1px 0 10px;
 }
 
 .contenedor {
@@ -14,13 +15,14 @@ body {
   text-align: center;
   font-weight: bolder;
   padding-bottom: 50px;
+  text-shadow: rgb(255, 0, 0) 1px 0 10px;
 }
 
 .cTitulo {
   display: flex;
   justify-content: center;
   gap: 300px;
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 20px;
 }
 
@@ -32,4 +34,34 @@ body {
 
 .cImg img {
   width: 500px;
+}
+
+.contenedor2 {
+  background-color: rgba(206, 214, 221, 0.349);
+  width: 70%;
+  margin-top: 150px;
+  margin-left: 480px;
+  padding: 30px;
+  text-align: center;
+  font-weight: bolder;
+  padding-bottom: 50px;
+  text-shadow: rgb(255, 0, 0) 1px 0 10px;
+}
+
+.cImg2 {
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+}
+
+.cImg2 img {
+  width: 330px;
+  height: 250px;
+}
+
+.cTitulo2 {
+  display: flex;
+  gap: 250px;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
