@@ -20,6 +20,7 @@ body {
   padding-bottom: 50px;
   text-shadow: rgb(144, 196, 25) 1px 0 10px;
   color: white;
+  position: relative;
 }
 
 .cTitulo {
@@ -51,6 +52,7 @@ body {
   padding-bottom: 50px;
   text-shadow: rgb(144, 196, 25) 1px 0 10px;
   color: white;
+  position: relative;
 }
 
 .cImg2 {
@@ -82,6 +84,7 @@ body {
   text-shadow: rgb(144, 196, 25) 1px 0 10px;
   margin-bottom: 30px;
   color: white;
+  position: relative;
 }
 
 .cImg3 {
