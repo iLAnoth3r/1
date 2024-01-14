@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   text-shadow: rgb(144, 196, 25) 5px 0 10px;
+  overflow-x: hidden;
 }
 
 .contenedor {
